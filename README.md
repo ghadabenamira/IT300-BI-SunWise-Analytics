@@ -12,7 +12,7 @@ Tunis Business School
 - Ghada Ben Amira
 - Hiba Chaabouni
 - Ala Dbira
-- Yomna
+- Yomna Brahmi
 - Ali Ayari
   
 ## Project Description
